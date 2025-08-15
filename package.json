@@ -2,6 +2,7 @@
   "name": "firstday",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://ShubhankarRaj9.github.io/project-number-1",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.7.0",
@@ -16,7 +17,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    
   },
   "eslintConfig": {
     "extends": [
